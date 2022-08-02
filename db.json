@@ -109,6 +109,17 @@
       "cost": 0,
       "services": [],
       "id": 10
+    },
+    {
+      "name": "novo projeto",
+      "budget": "500000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 11
     }
   ],
   "categories": [
